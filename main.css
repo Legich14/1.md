@@ -1,0 +1,44 @@
+body {
+    height: 1000px;
+}
+
+header img {
+    width: 150px;
+}
+
+header h1 {
+    color:red;
+}
+
+.color_blu {
+    width: 100px;
+    background-color: blue;
+    margin-bottom: 10%;
+}
+
+header h2 {
+    background-color: green;
+    padding: 5px 5px 5px 5px;
+    color: white;
+}
+
+main h2 {
+    padding: 30px 40px 40px 40px;
+    background-color: green;
+    color: white;
+}
+
+main p {
+    padding-left: 10%;
+}
+
+footer ul li {
+    font-size: 30px;
+    border: solid 1px black;
+}
+
+footer h2 {
+    background-color: green;
+    padding: 5px 5px 5px 5px;
+    color: white;
+}
